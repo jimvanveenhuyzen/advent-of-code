@@ -1,4 +1,4 @@
-with open("input1.txt") as f:
+with open("data/input1.txt") as f:
     input_data = f.readlines()
 
 input_data = [s.rstrip() for s in input_data]

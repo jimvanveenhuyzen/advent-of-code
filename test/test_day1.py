@@ -1,4 +1,4 @@
-from day1 import dial
+from src.day1 import dial
 
 def test_passes_through_zero():
     mock_input_data = [
